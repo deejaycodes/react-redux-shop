@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deejaycodes/react-redux-shop.git"
+  },
+  "author": "Deji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deejaycodes/react-redux-shop/issues"
+  },
+  "homepage": "https://github.com/deejaycodes/react-redux-shop#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
